@@ -1,0 +1,4 @@
+* [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements)
+* [Material Theme](https://packagecontrol.io/packages/Material%20Theme)
+* [Theme Spacegray](https://packagecontrol.io/packages/Theme%20-%20Spacegray)
+* [Emmet](https://packagecontrol.io/packages/Emmet)
