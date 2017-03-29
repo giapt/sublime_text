@@ -3,3 +3,4 @@
 * [Theme Spacegray](https://packagecontrol.io/packages/Theme%20-%20Spacegray)
 * [Emmet](https://packagecontrol.io/packages/Emmet)
 * [VN IME](https://github.com/glmanhtu/VN_IME)
+* [Text-Pastry](https://github.com/duydao/Text-Pastry)
