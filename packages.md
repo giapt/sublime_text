@@ -4,3 +4,4 @@
 * [Emmet](https://packagecontrol.io/packages/Emmet)
 * [VN IME](https://github.com/glmanhtu/VN_IME)
 * [Text-Pastry](https://github.com/duydao/Text-Pastry)
+* [ConvertToUTF8](https://github.com/seanliang/ConvertToUTF8)
